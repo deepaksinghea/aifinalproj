@@ -7,7 +7,11 @@
 
 # Team Members : Deepak Singh 
 
-# Youtube Walkthrough : https://www.youtube.com/watch?v=I_56t9jEJss 
+# Slides and Code is provided in this repository.
+
+# Youtube Walkthrough : 
+
+https://www.youtube.com/watch?v=I_56t9jEJss 
 
 # Motivation 
 1. Stock price prediction is a classic problem, with successful model for
@@ -44,4 +48,4 @@ performance compared to vanilla RL agent.
 1. We can try out different RL agents with varying timestamps.
 2. We can also deploy it as a web app for end users using services and packages like AWS, Streamlit etc.
 
-# Slides and Code is provided in this repository.
+# Thank you!!
