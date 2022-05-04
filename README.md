@@ -7,6 +7,8 @@
 
 # Team Members : Deepak Singh 
 
+# Youtube Walkthrough : https://www.youtube.com/watch?v=I_56t9jEJss 
+
 # Motivation 
 1. Stock price prediction is a classic problem, with successful model for
 prediction we can obtain market insights and trends.
