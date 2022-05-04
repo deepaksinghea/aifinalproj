@@ -1,6 +1,6 @@
 # AI Class Final Project 
 
-# Project Topic : Stock Price Prediction 
+# Project Topic : Stock Price Prediction using RL
 
 ![alt text](https://www.stockmarketeye.com/blog/wp-content/uploads/2015/04/end-of-day-stock-prices.png)
 
