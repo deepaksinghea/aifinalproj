@@ -37,9 +37,9 @@ performance compared to vanilla RL agent.
 4. We will perform evaluation on the new model.
 5. We will visualize the result !!
 
-# Slides and Code is provided in this repository.
-
 # Future Scope 
 
 1. We can try out different RL agents with varying timestamps.
 2. We can also deploy it as a web app for end users using services and packages like AWS, Streamlit etc.
+
+# Slides and Code is provided in this repository.
